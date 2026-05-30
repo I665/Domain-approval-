@@ -1,0 +1,6 @@
+{
+  "name": "Domaner",
+  "description": "معرض لبيع الدومينات بحسب الفئات في 3 أعمدة مع أداة لتقييم الدومينات بالذكاء الاصطناعي (مستوحى من Atom و GoDaddy)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
